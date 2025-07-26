@@ -32,7 +32,7 @@ export const Hero = () => {
               <Button size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground">
                 Start Free Trial
               </Button>
-              <Button size="lg" variant="outline" className="border-primary-foreground/20 text-primary-foreground hover:bg-primary-foreground/10">
+              <Button size="lg" variant="outline-hero">
                 <PlayCircle className="h-5 w-5 mr-2" />
                 Watch Demo
               </Button>
