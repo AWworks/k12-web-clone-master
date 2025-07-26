@@ -40,8 +40,6 @@ All colors MUST be HSL.
     --education-blue: 214 100% 50%;
     --education-green: 151 55% 45%;
     --education-light: 219 27% 98%;
-    --hero-gradient: linear-gradient(135deg, hsl(214 100% 50%), hsl(151 55% 45%));
-    --section-gradient: linear-gradient(180deg, hsl(219 27% 98%), hsl(210 40% 96%));
 
     --radius: 0.5rem;
 
@@ -95,8 +93,6 @@ All colors MUST be HSL.
     --education-blue: 214 100% 60%;
     --education-green: 151 55% 55%;
     --education-light: 215 28% 12%;
-    --hero-gradient: linear-gradient(135deg, hsl(214 100% 60%), hsl(151 55% 55%));
-    --section-gradient: linear-gradient(180deg, hsl(215 28% 8%), hsl(217 33% 18%));
     --sidebar-background: 240 5.9% 10%;
     --sidebar-foreground: 240 4.8% 95.9%;
     --sidebar-primary: 224.3 76.3% 48%;

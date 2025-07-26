@@ -118,8 +118,8 @@ export default {
 				'slide-up': 'slide-up 0.6s ease-out'
 			},
 			backgroundImage: {
-				'hero-gradient': 'var(--hero-gradient)',
-				'section-gradient': 'var(--section-gradient)'
+				'hero-gradient': 'linear-gradient(135deg, hsl(var(--education-blue)), hsl(var(--education-green)))',
+				'section-gradient': 'linear-gradient(180deg, hsl(var(--background)), hsl(var(--secondary)))'
 			}
 		}
 	},
